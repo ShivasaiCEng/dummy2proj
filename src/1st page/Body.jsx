@@ -17,6 +17,7 @@ export default function Body() {
         <>
             <div className="Body-container">
                 <div className="Body">
+                    <h1>dummy test 1</h1>
                     <h1><i className="fa-solid fa-robot"></i> AI Interviewer</h1>
                     <h2>Ace your next interview with smart mock sessions.</h2>
                     <h3><i className="fa-solid fa-comments"></i> Real-time questions. <i className="fa-solid fa-chart-line"></i> Instant feedback. <i className="fa-solid fa-microphone"></i> Voice or text.
